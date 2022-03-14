@@ -71,7 +71,7 @@
     </form>
 
     @push('scripts')
-        <script type="text/javascript" src="{{ asset('js/busca_cep.js') }}"></script>
+        <script type="text/javascript" src="{{ asset('js/api.js') }}"></script>
 
         <script type="text/javascript">
             $(document).ready(function() {

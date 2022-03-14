@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Requests\CriarContatoRequest;
 use App\Http\Requests\AtualizarContatoRequest;
-use App\Models\Contato;
+use App\Models\Contatos;
 
 class ContatoController extends Controller
 {
